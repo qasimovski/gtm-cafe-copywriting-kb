@@ -1,0 +1,8 @@
+# Raw Slack data — contains other members' messages. Never commit.
+export/
+raw/
+structured/
+
+# Python
+__pycache__/
+*.pyc
